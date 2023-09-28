@@ -1,0 +1,94 @@
+#img{
+    width:45%;
+    height:165px;
+    border:0px solid white;
+    margin: 10% 25%;
+    border-radius: 280px;
+    background-image: url(susmitha\(photo\).jpg);
+    background-size: cover;
+}
+.hdings{
+    min-height: 10px;
+    line-height: 10px;
+    color:sandybrown;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.hor{
+    margin-top: -4%;
+    border:1px;
+}
+.ul{
+    color:#fffefe;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.c1{
+    width:79%;
+    height: 250px;
+    border: 0px solid wheat;
+    margin: 35px;
+}
+.c2{
+    height:180px;
+    margin-top:-8%
+}
+.c3{
+    width:79%;
+    height: 260px;
+    border: 0px solid wheat;
+    margin: 35px;
+    margin-top:-8%
+}
+p{
+    color:#fffefe;
+    padding-left: 15%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.c4{
+    width:79%;
+    height:120px ;
+    border:0px solid wheat;
+    margin: 35px;
+    margin-top:-8%;
+}
+#h1{
+    padding: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;     
+}
+.shd{
+    font-family: Arial, Helvetica, sans-serif ;
+    color: #0c0c0c;
+    padding-left: 15px;
+}
+.h4{
+    font-family: Arial, Helvetica, sans-serif ;
+    padding-left: 2%;
+   
+}
+.h41{
+    background-color: rgb(235, 172, 116);
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.p1{
+    color: #0c0c0c;
+    text-align: justify;padding-left: 2%;
+    min-width: 20px;
+    line-height: 20px;
+    padding-left: 2%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.lst{
+    color: #0c0c0c;
+    text-align: justify;
+    min-width: 20px;
+    line-height: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p2{
+    padding-left: 5%;
+}
+p{
+    font-size: medium;
+}
+H4{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
